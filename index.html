@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WASM Merhaba Dünya</title>
+    <script type="module">
+        import init from './pkg/deweb3.js';
+
+        async function run() {
+            await init();
+            const result = wasm.say_hello();
+            document.getElementById("output").textContent = result;
+        }
+
+        run();
+    </script>
+</head>
+<body>
+    <div id="output"></div>
+</body>
+</html>

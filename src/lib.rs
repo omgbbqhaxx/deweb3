@@ -1,5 +1,11 @@
-[lib]
-crate-type = ["cdylib"]
+use wasm_bindgen::prelude::*;
 
-[dependencies]
-wasm-bindgen = "0.2"
+#[wasm_bindgen]
+extern "C" {
+    fn alert(s: &str);
+}
+
+#[wasm_bindgen]
+pub fn greet(name: &str) {
+    alert(&format!("Hello, {}!", name));
+}
