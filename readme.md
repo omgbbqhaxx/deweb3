@@ -1,4 +1,4 @@
-# Wellcome to deweb3
+# Welcome to deweb3
 
 It is the most popular and original Progressive Web dApp (PWA) store for solana. 
 
@@ -8,7 +8,6 @@ It is the most popular and original Progressive Web dApp (PWA) store for solana.
 [![GitHub Issues](https://img.shields.io/badge/open%20issues-0-yellow.svg)](https://github.com/omgbbqhaxx/deweb3/issues)
 
 - Chat in [twitter](https://x.com/yasinaktimur).
-- Report bugs, issues or feature requests using [GitHub issues](issues/new).
 - Submit new dapp [Google forms](https://forms.gle/YKo3P8XSDx4KYD768).
 
 
@@ -28,12 +27,14 @@ Android          | [![AppVeyor](https://img.shields.io/badge/build-passing-brigh
 
 
 ## What is PWA? Progressive Web dApp (PWA)
-    Progressive Web Application (PWA) is a type of web app that can operate both as a web page and mobile app on any device. It is a great solution for poor mobile UX and low conversion rates in your online store. Using standard technologies, PWA is aimed at delivering native-like user experience, with speedier conversion and cleaner browsing even with a poor Internet connection. 
 
-    PWAs are written in JavaScript, CSS, and HTML. They look and behave just like regular web pages (which means they are searchable in internet browsers). However, they also deliver functionalities identical to those provided by mobile apps: they are fast, can work offline, send push notifications, and use the features of user devices.
+Progressive Web Application (PWA) is a type of web app that can operate both as a web page and mobile app on any device. It is a great solution for poor mobile UX and low conversion rates in your online store. Using standard technologies, PWA is aimed at delivering native-like user experience, with speedier conversion and cleaner browsing even with a poor Internet connection. 
+
+PWAs are written in JavaScript, CSS, and HTML. They look and behave just like regular web pages (which means they are searchable in internet browsers). However, they also deliver functionalities identical to those provided by mobile apps: they are fast, can work offline, send push notifications, and use the features of user devices.
 
 ## What is WASM?
-    WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
+
+WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 
 
 Go to WASM offical website **[WASM](https://webassembly.org/)**,
@@ -45,7 +46,7 @@ Go to WASM offical website **[WASM](https://webassembly.org/)**,
 
 
 ## Donations
-  * My Nano wallet : `PBgDvMjy2W5BYmDQrCEZrXK8uMnDNyUScSNL37LLmJZ`
+  * My solana wallet : `PBgDvMjy2W5BYmDQrCEZrXK8uMnDNyUScSNL37LLmJZ`
 
 ## License
 
